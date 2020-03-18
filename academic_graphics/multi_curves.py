@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 27 23:11:58 2019
 
-@author: 王若宇
+@author: EuroGaymer
 """
 from FileReader import Reader as rd
 from academic_graphics import graph as gp
