@@ -1,3 +1,9 @@
+'''
+This is Tailored to the specific data format of equipment in my department, you can (and should modify) this\
+to your requirement.
+'''
+
+
 import pandas as pd
 import numpy as np
 import scipy as sp
