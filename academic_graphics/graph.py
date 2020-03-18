@@ -2,7 +2,7 @@
 """
 Created on Mon Apr 29 14:54:17 2019
 
-@author: 王若宇
+@author: EuroGaymer
 """
 
 
@@ -151,22 +151,3 @@ def PDF_line(cl1,cl2):
 
 
 
-# ax.set_xlim(20,80)
-# ax.set_ylim(4000,15000)
-
-
-
-
-
-# Create a 'proxy artist': 
-
-# import matplotlib.lines as mlines
-
-# black_line = mlines.Line2D([], [], color='black', marker='o',
-  #                        markersize=5, label='Ni-CAT')
-
-#plt.legend(handles=[black_line],loc='upper left', bbox_to_anchor=(0.1, 0.9))
-
-
-
-#fig.savefig('C:/Users/王若宇/Desktop/The tatami galaxy.png')
